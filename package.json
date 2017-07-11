@@ -9,6 +9,7 @@
         "url":"https://github.com/node-red/node-red.git"
     },
     "main"         : "red/red.js",
+    "types"        : "red/red.d.ts",
     "scripts"      : {
         "start": "node red.js",
         "test": "grunt",
